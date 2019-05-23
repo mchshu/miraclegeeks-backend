@@ -1,0 +1,5 @@
+{
+    "addr": ":3100",
+    "driver": "sqlite3",
+    "dsn": "file:miraclegeeks.db?cache=shared"
+}
