@@ -1,0 +1,8 @@
+# github.com/gocraft/dbr v0.0.0-20190503023340-d3d1e2876df1
+github.com/gocraft/dbr
+github.com/gocraft/dbr/dialect
+# github.com/mattn/go-sqlite3 v1.10.0
+github.com/mattn/go-sqlite3
+# golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
